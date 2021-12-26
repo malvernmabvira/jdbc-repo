@@ -1,6 +1,6 @@
 # Steps of JDBC
 1. import java.sql.*;
-2. Class.forName();
+2. Class.forName(); // argument 
 3. Create connection;
 4. Create statement;
 5. ResultSet;
